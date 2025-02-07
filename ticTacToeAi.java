@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class game {
+public class ticTacToeAi {
     static char[][] board = {
         {' ', ' ', ' '},
         {' ', ' ', ' '},
